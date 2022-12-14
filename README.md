@@ -1,1 +1,2 @@
-# ecommerce-pokemon-backend
+# Pokemoniacs backend
+Graduation project
